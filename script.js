@@ -1,0 +1,10 @@
+ const option1Select = document.getElementById('option1');
+        const option2Select = document.getElementById('option2');
+        const resultDiv = document.getElementById('result');
+        const imageContainer1 = document.getElementById('image-container1');
+        const imageContainer2 = document.getElementById('image-container2');
+        const fuseButton = document.getElementById('fuseButton');
+        const resultImageContainer = document.querySelector('.result-image');
+        const videoContainer = document.getElementById('videoContainer');
+        const fullscreenVideo = document.getElementById('fullscreenVideo');
+        const fuseSound = document.getElementById('fuseSound');
