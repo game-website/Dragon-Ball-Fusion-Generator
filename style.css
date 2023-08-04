@@ -1,0 +1,19 @@
+body, html {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 30px;
+
+            background: url(dragon-ball-characters.jpeg) no-repeat center center fixed; 
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+
+/*
+    background-image: url('dragon-ball-characters.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 1.0;
+    */
+        }
