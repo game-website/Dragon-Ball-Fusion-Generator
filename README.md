@@ -1,5 +1,5 @@
 # Dragon-Ball-Fusion-Generator
-Dragon Ball fans can now fuse their favorite characters into ultimate warriors using the new Dragon Ball Fusion Generator. This online tool lets you mash up heroes and villains from Dragon Ball Z, Dragon Ball Super, and all of the Dragon Ball sagas.
+Dragon Ball fans can now fuse their favorite characters into ultimate warriors using the new<a href="https://dragon-ball-fusion-generator.coderobo.org/" target="_blank">Dragon Ball Fusion Generator.</a> This online tool lets you mash up heroes and villains from Dragon Ball Z, Dragon Ball Super, and all of the Dragon Ball sagas.
 
 What is a Dragon Ball Fusion Generator?
 A Dragon Ball fusion generator is a fan-made tool that lets you fuse any two characters from the Dragon Ball universe into a new fused fighter. It combines the names, attributes, and appearances of the characters into one powerful persona.
